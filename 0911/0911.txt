@@ -1,0 +1,58 @@
+Web
+
+gs.statcounter.com
+
+http://html5test.com/
+compare 클릭
+
+
+http://www.csszengarden.com/
+VIEW ALL DESIGNS 클릭
+
+Web을 이야기할때 
+HTML5 , CSS3 , JavaScript 
+(구조)    (표현)    (동작)
+  M        V          C   
+
+
+브라우저 -> 클라이언트로 사용 
+서버 -> 서비스 제공 
+브라우저 -> 클라이언트에서 실행되는 프로그램 -> 서비스를 받는 프로그램 
+
+html -> root 
+head -> title 
+body -> 내용 
+-> 트리구조이다 
+웹 브라우저에는 엔진 이름이 있다. 
+
+네이티브 앱 , 웹앱 , 하이브리드 앱 
+
+w3schools.com -> Learn HTML
+
+
+서브라임 텍스트 브라우저 미리보기 
+======================================
+<HTML 명령어>
+<h1> -> 큰 글자 -> 제목쯤..?
+<p> 간격이 넓은 줄넘김 </p> ->단락을 의미 
+<br>가까운 줄넘김 간격이 좁음
+<b> 굵은글자 
+<l> 기울인 글자 
+<small> 작은글자 
+<sub>아래첨자
+<sup> 윗첨자 
+ <hr class="one"> 수평선 양식 
+<mark> 마크태그 
+<ins> 밑줄글자 태그
+<del> 취소글 글자 태그 
+<a href="">내용</a> 하이퍼링크 
+
+=========================================================
+Boot Strap -> 디자인 더 간편하게 해준다.
+서비스 형식 
+CDN -> Network에서 가져온다 
+Download -> 다운받아 사용 
+
+ 
+
+bmac.kr  
